@@ -1,0 +1,14 @@
+Problem Statement: 
+    Loan Prediction : For given set of data, using feature engineering, machine learning and analysis we have to predict 'Whether an Applicant is likely to Repay the loan capital and interest (nauzubillah)'
+
+Input : 
+    A dataset containing information about applicants such as name,age,credit score, salary cap, etc 
+
+Output :
+    Whether He is capable of giving loan back to the lender/bank or not
+
+Data Collection: 
+    There are several dataset about loan prediction which we can find on keggle dataset or many other platforms
+
+Data Processing/Data Wrangling:
+    

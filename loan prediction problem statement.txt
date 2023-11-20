@@ -1,0 +1,16 @@
+Questions 
+
+Topic: Loan Prediction
+
+
+How banks meet lending decisions?
+
+Their main concern is you will be able to repay the loan capital with interests
+
+The longer your track record of generating revenues in cash flows the better
+
+You should also be confident of generating future revenues and cash flows
+
+Banks also been sufficient security for the loan --> generally less will be property,vehicles,equipment stock or your order book the beacon setting a personal credit history and could request personal as collateral
+
+for businesses with a good model but insufficient security the UK govt can partly guarantee bank loans under the enterprise finance guarantee scheme this means the 
